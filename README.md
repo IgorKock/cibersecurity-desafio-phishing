@@ -18,4 +18,4 @@
 
 ### Resutados
 
-[Passwd]: https://github.com/IgorKock/cibersecurity-desafio-phishing/blob/01cd2502a308b4a78fbea3db15575af17d066ce7/passwd.png "Optional title"
+[Passwd]: https://github.com/igorkock/ibersecurity-desafio-phishing/raw/master/passwd.png "Optional title"
